@@ -8,10 +8,7 @@ Mahasiswa Sistem Informasi semester 6 di Universitas Gunadarma. Saya fokus di ti
 
 | | |
 |---|---|
-| 💼 Portfolio | [portfolio.lananuranf.my.id](https://portfolio.lananuranf.my.id) |
-| 🏫 Letta School | [school.lananuranf.my.id](https://school.lananuranf.my.id) |
-| 🛒 E-Commerce App | [lananuranf.my.id](https://lananuranf.my.id) |
-| 🕵️ Undercover Project | [undercover.lananuranf.my.id](https://undercover.lananuranf.my.id) |
+| 💼 Portfolio | [portfolio.lananuranf.my.id](https://lananuranf.my.id/) |
 
 ---
 
