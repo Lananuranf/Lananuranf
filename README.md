@@ -8,7 +8,7 @@ Mahasiswa Sistem Informasi semester 6 di Universitas Gunadarma. Saya fokus di ti
 
 | | |
 |---|---|
-| 💼 Portfolio | [portfolio.lananuranf.my.id](https://lananuranf.my.id/) |
+| 💼 Portfolio | [portfolio](https://lananuranf.my.id/) |
 
 ---
 
