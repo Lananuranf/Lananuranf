@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Maulana Nur Anfajm 👋</h1>
 
 <p align="center">
   <b>Backend Engineer</b> · alias Lananuranf<br/>
